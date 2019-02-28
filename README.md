@@ -1,2 +1,3 @@
 # Hello-world
-Rcode repository
+# Rcode repository
+# Towards analysis and visualization of data
